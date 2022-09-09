@@ -1,0 +1,213 @@
+body{
+    font-size: 12px;
+    font-family: inter;
+    margin: 0px;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 32px 112px;
+}
+
+.yo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px;
+    column-gap: 42px;
+}
+
+nav li{
+    display: block;
+}
+
+button{
+    padding: 8px 12px;
+    border-radius: 8px;
+    border: 1px solid #d4d4d4;
+    gap: 8px;
+}
+
+.pry-btn{
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.sec-btn{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+section.hero{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    column-gap: 20px;
+    padding: 128px 112px 144px;
+}
+
+.hero-right{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    column-gap: 8px;
+    align-items: flex-start;
+    isolation: isolate;
+}
+
+.lo{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 5px 0px;
+    column-gap: 40px;
+}
+
+.po{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    padding: 5px 0px;
+    column-gap: 40px;
+}
+
+.tol{
+    box-sizing: border-box;
+    align-items: center;
+    padding: 8px 16px;
+    gap: 8px;
+    border: 1px solid #CBD2D9;
+    border-radius: 8px;
+}
+
+.om{
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 128px 112px;
+    column-gap: 8px;
+}
+
+.col{
+    display: flex;
+    flex-direction: row;
+    padding: 0px;
+    align-items: center;
+}
+
+.hy{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 8px;
+}
+
+.tm{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 8px;
+    
+}
+
+.um{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 80px 8px;
+    gap: 8px;
+}
+
+.fr{
+    font-size: 12px;
+    font-family: inter;
+}
+
+.op{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 16px;
+    gap: 40px;
+}
+
+.ui{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    padding: 16px;
+    gap: 40px;
+}
+
+.para{
+    margin-bottom: 10px;
+    font-size: 8px;
+}
+
+.para-2{
+    font-size: 7px;
+    text-align: center;
+}
+
+.para-3{
+    font-size: 8px;
+    text-align: center;
+}
+.mol{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 8px;
+}
+
+.rol{
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 60px;
+}
+
+.ok{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.fp{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 32px;
+    gap: 8px;
+}
+
+.ay{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 16px;
+    gap: 40px;
+}
+
+.jk{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    padding: 16px;
+    gap: 40px;
+}
